@@ -1,7 +1,7 @@
 # Deep-Learning-in-Sports-Result-Prediction-
 Several self-designed neural network models for NBA game result prediction, including single game, play-by-play and ranking.
 <br />
-I use Google Colab during the whole project, and then I uploaded about half of my code here on 3/21/2022.
+I use Google Colab during the whole project, and then I uploaded 30% of my code here on 3/21/2022.
 
 <br />
 I have tried different learning rate, loss functions, layer size, regression methods, seasons for each of them. 
