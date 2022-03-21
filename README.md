@@ -8,9 +8,11 @@ I have tried different learning rate, loss functions, layer size, regression met
 I'm still working on the thesis, so it's not so organized yet. Sorry about that. I will finish this project by May 2022 with a thesis to explain everything.
 <br />
 I would recommend anyone who actually wants to run the code to visit my google drive folder which includes all my code, NBA data, my data, and plots. Also, using Google Colab GPU is free and convenient! 
-Here is the link. https://drive.google.com/drive/folders/1LytgjgUHSfSxr0cgXDPOORyllg0aCujr?usp=sharing
+<br />
+Here is the link: https://drive.google.com/drive/folders/1LytgjgUHSfSxr0cgXDPOORyllg0aCujr?usp=sharing
 
 <br />
+
 ## Single Game Prediction
 Built many types of models for single game result prediction:
 <br />
