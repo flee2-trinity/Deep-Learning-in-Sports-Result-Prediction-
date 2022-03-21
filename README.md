@@ -8,6 +8,17 @@ Here is the link. https://drive.google.com/drive/folders/1LytgjgUHSfSxr0cgXDPOOR
 I'm still working on the thesis, so it is not so organized yet. I will finish this project by May 2022 with a thesis to explain it.
 <br />
 ## Single Game Prediction
+I have built many types of models for single game prediction.
+<br />
+NN models including teams' names in one hot coding, but no team stats
+<br />
+NN models including teams' names in one hot coding with team stats
+<br />
+NN models including all stats of a single game and winning rating of a team
+<br />
+RNN model including all stats of a single game and previous records of a team
+<br />
+LSTM model including all stats of a single game and previous records of a team
 <br />
 ## Play By Play Prediction
 <br />
