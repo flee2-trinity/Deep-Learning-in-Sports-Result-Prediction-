@@ -11,7 +11,7 @@ I'm still working on the thesis, so it's not so organized yet. Sorry about that.
 ## Single Game Prediction
 Built many types of models for single game result prediction:
 <br />
-NN models including teams' names in one hot coding, but no team stats
+NN models including teams' names in one hot coding only
 <br />
 NN models including teams' names in one hot coding with team stats
 <br />
