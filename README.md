@@ -34,7 +34,10 @@ LSTM models including all stats of a single game and previous records of a team
 Using play-by-play data to predict the winner during a game
 
 ## Rankings Prediction
+<br />
+
 Basically I built rankings prediction based on my best single game prediction models which uses 25% of previous season games data to predict the new season ranking. I also have a power ranking prediction when testing the models. My models actually preforms a lot better than elo method espacially in first half of the season.
+<br />
 
 ##Data Source
 National Statistical: NBA Season 12-19: Team Stats, Play-by-play Stats
