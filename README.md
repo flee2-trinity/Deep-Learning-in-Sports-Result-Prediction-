@@ -5,4 +5,9 @@ I would recommend anyone who actually wants to run the code to visit my google d
 Here is the link. https://drive.google.com/drive/folders/1LytgjgUHSfSxr0cgXDPOORyllg0aCujr?usp=sharing
 I'm still working on the thesis, so it is not so organized yet.
 <br />
+#Single Game Prediction
+<br />
+#Play By Play Prediction
+<br />
+#Ranking Prediction
 Basically I have ranking prediction which uses 25% of previous season games data to predict the new season ranking. I also have a power ranking prediction when testing the models.
