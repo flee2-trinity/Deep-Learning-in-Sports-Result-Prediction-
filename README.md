@@ -9,6 +9,7 @@ I'm still working on the thesis, so it's not so organized yet. Sorry about that.
 <br />
 I would recommend anyone who actually wants to run the code to visit my google drive folder which includes all my code, NBA data, my data, and plots. Also, using Google Colab GPU is free and convenient! 
 Here is the link. https://drive.google.com/drive/folders/1LytgjgUHSfSxr0cgXDPOORyllg0aCujr?usp=sharing
+
 <br />
 ## Single Game Prediction
 Built many types of models for single game result prediction:
@@ -25,8 +26,10 @@ RNN models including all stats of a single game and previous records of a team
 <br />
 LSTM models including all stats of a single game and previous records of a team
 <br />
+
 ## Play-By-Play Prediction
 <br />
 Using play-by-play data to predict the winner during a game
+
 ## Rankings Prediction
 Basically I built rankings prediction based on my best single game prediction models which uses 25% of previous season games data to predict the new season ranking. I also have a power ranking prediction when testing the models. My models actually preforms a lot better than elo method espacially in first half of the season.
