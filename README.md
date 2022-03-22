@@ -41,5 +41,6 @@ Basically I built rankings prediction based on my best single game prediction mo
 
 ## Data Source
 National Statistical: NBA Season 12-19: Team Stats, Play-by-play Stats
+<br />
 531: Elo Rating
 <br />
