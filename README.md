@@ -5,7 +5,9 @@ I use Google Colab during the whole project, and then I uploaded 30% of my code 
 
 <br />
 I have tried different learning rate, loss functions, layer size, regression methods, seasons for each of them. 
-I'm still working on the thesis, so it's not so organized yet. Sorry about that. I will finish this project by May 2022 with a thesis to explain everything.
+Here is the thesis link:
+<br />
+https://digitalcommons.trinity.edu/compsci_honors/65/
 <br />
 I would recommend anyone who actually wants to run the code to visit my google drive folder which includes all my code, NBA data, my data, and plots. Also, using Google Colab GPU is free and convenient! 
 <br />
