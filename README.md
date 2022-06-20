@@ -5,6 +5,7 @@ I use Google Colab during the whole project, and then I uploaded 30% of my code 
 
 <br />
 I have tried different learning rate, loss functions, layer size, regression methods, seasons for each of them. 
+<br />
 Here is the thesis link:
 <br />
 https://digitalcommons.trinity.edu/compsci_honors/65/
